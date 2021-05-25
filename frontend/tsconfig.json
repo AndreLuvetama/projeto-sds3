@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", // indica que os arquivos estarão todos no src
     "target": "es5",
     "lib": [
       "dom",
